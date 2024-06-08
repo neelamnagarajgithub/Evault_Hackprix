@@ -1,0 +1,17 @@
+{
+  "name": "evault_hackprix",
+  "version": "1.0.0",
+  "description": "This is Project built for store ,record and share the legal records which is built using Eth Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rithwik,Nagaraj",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.22.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
